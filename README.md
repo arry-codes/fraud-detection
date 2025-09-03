@@ -1,5 +1,5 @@
 
-# 🕵️ Fraud Detection System
+# 🕵️ Fraud Detection
 
 A Machine Learning project for detecting fraudulent transactions using supervised learning techniques.  
 The goal of this repository is to build, train, and evaluate models that can identify potential fraud in financial transaction datasets with high accuracy.
