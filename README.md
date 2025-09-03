@@ -77,28 +77,7 @@ Example metrics (using Random Forest):
 
 ---
 
-## 🔮 Future Work
-- Implement Deep Learning models (ANN, LSTM).
-- Deploy as an API with FastAPI/Flask.
-- Streamlit dashboard for real-time fraud detection demo.
-- Integration with cloud services (AWS/GCP).
 
----
-
-## 🤝 Contributing
-Contributions are welcome!  
-Feel free to open an issue or submit a pull request with improvements.
-
----
-
-## 📜 License
-This project is licensed under the MIT License – see the LICENSE file for details.
-
----
-
-### 👨‍💻 Author
-**Aryan Kashyap**  
-GitHub: https://github.com/arry-codes | LinkedIn: #
 
 
 
